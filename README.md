@@ -45,18 +45,18 @@
 <tr><th>Кількість годин сну</th><th>Ріст м'язів</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>15.19</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>2</td><td>15.85</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>3</td><td>16.5</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>4</td><td>16.6</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>5</td><td>17.6</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>6</td><td>18.7</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>7</td><td>18.6</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>8</td><td>18.6</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>9</td><td>18.3</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>10</td><td>17.9</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>11</td><td>17</td><td>52.7</td><td>15.9</td></tr>
-<tr><td>12</td><td>16.6</td><td>52.7</td><td>15.9</td></tr>
+<tr><td>1</td><td>176.36</td><td>193.8</td><td>16.5</td></tr>
+<tr><td>2</td><td>171.7</td><td>180.5</td><td>16.4</td></tr>
+<tr><td>3</td><td>167.4</td><td>166.7</td><td>16.6</td></tr>
+<tr><td>4</td><td>159.7</td><td>140.9</td><td>16.8</td></tr>
+<tr><td>5</td><td>154.4</td><td>124.4</td><td>17.3</td></tr>
+<tr><td>6</td><td>142.9</td><td>102</td><td>17.7</td></tr>
+<tr><td>7</td><td>124.4</td><td>81.4</td><td>17.5</td></tr>
+<tr><td>8</td><td>104</td><td>65.7</td><td>17.5</td></tr>
+<tr><td>9</td><td>89.4</td><td>62.3</td><td>17.2</td></tr>
+<tr><td>10</td><td>68.8</td><td>60</td><td>16.9</td></tr>
+<tr><td>11</td><td>62.5</td><td>58.7</td><td>16.7</td></tr>
+<tr><td>12</td><td>60.5</td><td>57.6</td><td>16.3</td></tr>
 </tbody>
 </table>
 
