@@ -80,8 +80,8 @@
 </thead>
 <tbody>
 <tr><td>50</td><td>51.6</td><td>51.6</td><td>51.6</td></tr>
-<tr><td>60</td><td>53</td></tr><td>51.6</td><td>51.6</td></tr>
-<tr><td>70</td><td>56</td></tr><td>51.6</td><td>51.6</td></tr>
+<tr><td>60</td><td>53</td><td>51.6</td><td>51.6</td></tr>
+<tr><td>70</td><td>56</td><td>51.6</td><td>51.6</td></tr>
 <tr><td>80</td><td>61.4</td><td>51.6</td><td>51.6</td></tr>
 <tr><td>90</td><td>91.4</td><td>51.6</td><td>51.6</td></tr>
 <tr><td>100</td><td>116.7</td><td>51.6</td><td>51.6</td></tr>
